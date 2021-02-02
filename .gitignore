@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+chicago_crime/data/Crimes_-_2001_to_Present.csv
+
