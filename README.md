@@ -1,2 +1,7 @@
-# data-experiment-projects
-Playing with some data using Python
+# Data experiment
+
+The idea of this repository is playing with some data using Python
+
+## Current Projects
+
+- [Chicago Crime Data](/chicago_crime)
