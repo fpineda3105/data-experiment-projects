@@ -69,8 +69,8 @@ if __name__ == '__main__':
     threads.append(reader_proc)
     reader_proc.start()
     
-    for proc in threads:
-        proc.join()
+    for thread in threads:
+        thread.join()
 
     end = time.time()
     log.info(f'Execution time in seconds is: {end - start} from {threading.current_thread()}')
